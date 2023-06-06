@@ -12,6 +12,6 @@ Pembuatan notepad dengan menggunakan bahasa Python dalam penerapan OOP memberika
 
  Lihat <a href="https://github.com/torangfym/UAS-PBO/blob/main/note">code OOP Notepad.</a><br><br>
 
-# Torang Four Yones Manullang (G1A022052)
-# Federika Butar Butar (G1A022030)
-# Ari Setiawan (G1A022092)
+### Torang Four Yones Manullang (G1A022052)
+### Federika Butar Butar (G1A022030)
+### Ari Setiawan (G1A022092)
